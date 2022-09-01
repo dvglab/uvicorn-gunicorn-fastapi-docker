@@ -1,4 +1,4 @@
-FROM tiangolo/uvicorn-gunicorn:python3.6
+FROM dvglab/uvicorn-gunicorn:python3.10-slim
 
 LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
 
